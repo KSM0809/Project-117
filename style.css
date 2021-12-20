@@ -1,0 +1,50 @@
+#show_sketch{
+    float:right;
+    margin-right: 20px;
+    font-family: 'Shizuru', cursive;
+}
+
+#head{
+    background-color: coral;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-family: 'Rock 3D', cursive;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+body{
+    background-color:rgb(253, 245, 198);
+}
+
+#label, #confidence{
+    font-size: 20px;
+    font-weight: 500;
+    color: coral;
+    font-family: 'Shizuru', cursive;
+}
+
+#timer{
+    float:right;
+    margin-right: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: coral;
+    font-family: 'Shizuru', cursive;
+}
+
+#Score{
+    float:left;
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 500;
+    color: coral;
+    font-family: 'Shizuru', cursive;
+}
+
+#sketch_name_correct{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-family: 'Rock 3D', cursive;
+}
